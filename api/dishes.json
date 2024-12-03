@@ -194,8 +194,8 @@
     },
     {
       "id": 4,
-      "name": "Table & 3 Chairs",
-      "price": 842.9,
+      "name": "Roasted Tomato Soup",
+      "price": 6.99,
       "weight": 200,
       "image": "https://george-fx.github.io/dinehub_api/assets/dishes/04.jpg",
       "images": [
@@ -204,33 +204,6 @@
         "https://george-fx.github.io/dinehub_api/assets/dishes/04.jpg"
       ],
       "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
-      "colors": [
-        {
-          "id": 1,
-          "name": "champagne",
-          "code": "#F8E7CD"
-        },
-        {
-          "id": 2,
-          "name": "pale cerulean",
-          "code": "#9DC5DB"
-        },
-        {
-          "id": 3,
-          "name": "opal",
-          "code": "#96B8BA"
-        },
-        {
-          "id": 4,
-          "name": "camel",
-          "code": "#B09765"
-        },
-        {
-          "id": 5,
-          "name": "squid ink",
-          "code": "#142535"
-        }
-      ],
       "tags": [
         "table & chairs"
       ],
@@ -238,6 +211,7 @@
       "isBestseller": true,
       "isFeatured": false,
       "isSale": true,
+      "isHot": true,
       "reviews": [
         {
           "id": 1,
