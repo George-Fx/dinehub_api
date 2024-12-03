@@ -16,10 +16,9 @@
         "lightning"
       ],
       "rating": "5,0",
-      "isBestseller": true,
-      "isFeatured": false,
-      "isSale": false,
+      "isRecommended": true,
       "isNew": false,
+      "isHot": false,
       "reviews": [
         {
           "id": 1,
@@ -155,7 +154,6 @@
       "rating": "5,0",
       "isBestseller": true,
       "isFeatured": false,
-      "isSale": false,
       "isNew": true,
       "reviews": [
         {
@@ -287,7 +285,6 @@
       "rating": "5,0",
       "isBestseller": true,
       "isFeatured": false,
-      "isSale": false,
       "reviews": [
         {
           "id": 1,
@@ -445,7 +442,6 @@
       "rating": "5,0",
       "isBestseller": false,
       "isFeatured": true,
-      "isSale": false,
       "reviews": [
         {
           "id": 1,
@@ -526,7 +522,6 @@
       "rating": "5,0",
       "isBestseller": false,
       "isFeatured": true,
-      "isSale": false,
       "reviews": [
         {
           "id": 1,
@@ -689,7 +684,6 @@
       "rating": "5,0",
       "isBestseller": false,
       "isFeatured": true,
-      "isSale": false,
       "reviews": [
         {
           "id": 1,
@@ -770,7 +764,6 @@
       "rating": "5,0",
       "isBestseller": false,
       "isFeatured": true,
-      "isSale": false,
       "reviews": [
         {
           "id": 1,
@@ -851,7 +844,6 @@
       "rating": "5,0",
       "isBestseller": false,
       "isFeatured": true,
-      "isSale": false,
       "reviews": [
         {
           "id": 1,
