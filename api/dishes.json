@@ -84,7 +84,7 @@
       ],
       "rating": "5,0",
       "isRecommended": true,
-      "isNew": false,
+      "isNew": true,
       "isHot": false,
       "reviews": [
         {
