@@ -322,8 +322,8 @@
     },
     {
       "id": 6,
-      "name": "Armchair grey",
-      "price": 206.73,
+      "name": "Pan-Seared Duck",
+      "price": 18.99,
       "weight": 200,
       "oldPrice": 229.7,
       "image": "https://george-fx.github.io/dinehub_api/assets/dishes/06.jpg",
