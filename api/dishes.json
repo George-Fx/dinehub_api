@@ -19,6 +19,7 @@
       "isBestseller": true,
       "isFeatured": false,
       "isSale": false,
+      "isNew": false,
       "reviews": [
         {
           "id": 1,
@@ -73,6 +74,7 @@
       "isBestseller": true,
       "isFeatured": false,
       "isSale": true,
+      "isNew": true,
       "reviews": [
         {
           "id": 1,
