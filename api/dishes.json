@@ -2,7 +2,7 @@
   "dishes": [
     {
       "id": 1,
-      "name": "Pendant lamp",
+      "name": "Caesar with Chicken",
       "price": 42.9,
       "image": "https://george-fx.github.io/dinehub_api/assets/dishes/01.jpg",
       "images": [
