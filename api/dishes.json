@@ -11,33 +11,6 @@
         "https://george-fx.github.io/dinehub_api/assets/dishes/01.jpg"
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "colors": [
-        {
-          "id": 1,
-          "name": "champagne",
-          "code": "#F8E7CD"
-        },
-        {
-          "id": 2,
-          "name": "pale cerulean",
-          "code": "#9DC5DB"
-        },
-        {
-          "id": 3,
-          "name": "opal",
-          "code": "#96B8BA"
-        },
-        {
-          "id": 4,
-          "name": "camel",
-          "code": "#B09765"
-        },
-        {
-          "id": 5,
-          "name": "squid ink",
-          "code": "#142535"
-        }
-      ],
       "tags": [
         "lightning"
       ],
