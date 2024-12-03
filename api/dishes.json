@@ -71,7 +71,6 @@
       ],
       "rating": "5,0",
       "isRecommended": true,
-      "isFeatured": false,
       "isSale": true,
       "isNew": true,
       "reviews": [
@@ -153,7 +152,6 @@
       ],
       "rating": "5,0",
       "isRecommended": true,
-      "isFeatured": false,
       "isNew": true,
       "reviews": [
         {
@@ -207,7 +205,6 @@
       ],
       "rating": "5,0",
       "isRecommended": true,
-      "isFeatured": false,
       "isSale": true,
       "isHot": true,
       "reviews": [
@@ -284,7 +281,6 @@
       ],
       "rating": "5,0",
       "isRecommended": true,
-      "isFeatured": false,
       "reviews": [
         {
           "id": 1,
@@ -360,7 +356,6 @@
       ],
       "rating": "5,0",
       "isRecommended": true,
-      "isFeatured": false,
       "isSale": true,
       "reviews": [
         {
