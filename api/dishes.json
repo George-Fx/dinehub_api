@@ -248,7 +248,7 @@
     {
       "id": 5,
       "name": "Beef Stroganoff",
-      "price": 164.7,
+      "price": 14.99,
       "weight": 200,
       "image": "https://george-fx.github.io/dinehub_api/assets/dishes/05.jpg",
       "images": [
