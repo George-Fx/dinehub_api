@@ -70,7 +70,7 @@
         "chairs & tables"
       ],
       "rating": "5,0",
-      "isBestseller": true,
+      "isRecommended": true,
       "isFeatured": false,
       "isSale": true,
       "isNew": true,
@@ -152,7 +152,7 @@
         "chairs & tables"
       ],
       "rating": "5,0",
-      "isBestseller": true,
+      "isRecommended": true,
       "isFeatured": false,
       "isNew": true,
       "reviews": [
@@ -206,7 +206,7 @@
         "table & chairs"
       ],
       "rating": "5,0",
-      "isBestseller": true,
+      "isRecommended": true,
       "isFeatured": false,
       "isSale": true,
       "isHot": true,
@@ -283,7 +283,7 @@
         "chairs & tables"
       ],
       "rating": "5,0",
-      "isBestseller": true,
+      "isRecommended": true,
       "isFeatured": false,
       "reviews": [
         {
@@ -359,7 +359,7 @@
         "chairs & tables"
       ],
       "rating": "5,0",
-      "isBestseller": true,
+      "isRecommended": true,
       "isFeatured": false,
       "isSale": true,
       "reviews": [
@@ -440,7 +440,7 @@
         "chairs & tables"
       ],
       "rating": "5,0",
-      "isBestseller": false,
+      "isRecommended": false,
       "isFeatured": true,
       "reviews": [
         {
@@ -520,7 +520,7 @@
         "chairs & tables"
       ],
       "rating": "5,0",
-      "isBestseller": false,
+      "isRecommended": false,
       "isFeatured": true,
       "reviews": [
         {
@@ -601,7 +601,7 @@
         "chairs & tables"
       ],
       "rating": "5,0",
-      "isBestseller": false,
+      "isRecommended": false,
       "isFeatured": true,
       "isSale": true,
       "reviews": [
@@ -682,7 +682,7 @@
         "chairs & tables"
       ],
       "rating": "5,0",
-      "isBestseller": false,
+      "isRecommended": false,
       "isFeatured": true,
       "reviews": [
         {
@@ -762,7 +762,7 @@
         }
       ],
       "rating": "5,0",
-      "isBestseller": false,
+      "isRecommended": false,
       "isFeatured": true,
       "reviews": [
         {
