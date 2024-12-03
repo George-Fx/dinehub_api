@@ -641,8 +641,8 @@
     },
     {
       "id": 10,
-      "name": "Armchair gray",
-      "price": 229.7,
+      "name": "Pancakes",
+      "price": 12.79,
       "weight": 200,
       "image": "https://george-fx.github.io/dinehub_api/assets/dishes/10.jpg",
       "images": [
@@ -721,8 +721,8 @@
     },
     {
       "id": 11,
-      "name": "Wooden armchair grey",
-      "price": 377.0,
+      "name": "Vegetable salad",
+      "price": 11.49,
       "weight": 200,
       "image": "https://george-fx.github.io/dinehub_api/assets/dishes/11.jpg",
       "images": [
@@ -760,86 +760,6 @@
           "name": "squid ink",
           "code": "#142535"
         }
-      ],
-      "rating": "5,0",
-      "isBestseller": false,
-      "isFeatured": true,
-      "reviews": [
-        {
-          "id": 1,
-          "name": "Adrianna Mercado",
-          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
-          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
-          "rating": 5,
-          "date": "23 Jan"
-        },
-        {
-          "id": 2,
-          "name": "Dante Valdez",
-          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
-          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
-          "rating": 5,
-          "date": "23 Jan"
-        },
-        {
-          "id": 3,
-          "name": "Troy Ingram",
-          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
-          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
-          "rating": 5,
-          "date": "23 Jan"
-        },
-        {
-          "id": 4,
-          "name": "Joshua Bean",
-          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
-          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
-          "rating": 5,
-          "date": "23 Jan"
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "name": "Soft armchair Black",
-      "price": 302.4,
-      "weight": 200,
-      "image": "https://george-fx.github.io/dinehub_api/assets/dishes/12.jpg",
-      "images": [
-        "https://george-fx.github.io/dinehub_api/assets/dishes/12.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/12.jpg",
-        "https://george-fx.github.io/dinehub_api/assets/dishes/12.jpg"
-      ],
-      "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
-      "colors": [
-        {
-          "id": 1,
-          "name": "champagne",
-          "code": "#F8E7CD"
-        },
-        {
-          "id": 2,
-          "name": "pale cerulean",
-          "code": "#9DC5DB"
-        },
-        {
-          "id": 3,
-          "name": "opal",
-          "code": "#96B8BA"
-        },
-        {
-          "id": 4,
-          "name": "camel",
-          "code": "#B09765"
-        },
-        {
-          "id": 5,
-          "name": "squid ink",
-          "code": "#142535"
-        }
-      ],
-      "tags": [
-        "chairs & tables"
       ],
       "rating": "5,0",
       "isBestseller": false,
