@@ -56,8 +56,8 @@
     },
     {
       "id": 2,
-      "name": "Wooden chair",
-      "price": 187,
+      "name": "Creamy Chicken Alfredo",
+      "price": 13.49,
       "weight": 200,
       "image": "https://george-fx.github.io/dinehub_api/assets/dishes/02.jpg",
       "images": [
