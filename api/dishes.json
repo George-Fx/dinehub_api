@@ -350,7 +350,8 @@
       ],
       "rating": "5,0",
       "isRecommended": true,
-      "isSale": true,
+      "isNew": false,
+      "isHot": false,
       "reviews": [
         {
           "id": 1,
@@ -400,8 +401,9 @@
       "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
       "dietaryPreferences": ["High Protein", "Low Carb", "Low Sugar", "Gluten Free", "Keto Friendly", "Spicy Flavor", "Dairy Free", "Paleo Friendly"],
       "rating": "5,0",
-      "isRecommended": false,
-      "isFeatured": true,
+      "isRecommended": true,
+      "isNew": false,
+      "isHot": false,
       "reviews": [
         {
           "id": 1,
