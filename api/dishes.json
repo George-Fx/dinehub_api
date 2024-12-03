@@ -64,7 +64,7 @@
         "https://george-fx.github.io/dinehub_api/assets/dishes/02.jpg"
       ],
       "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
-      "tags": ["High Protein", "Low Carb", "Low Sugar", "Comfort Food", "Gluten Free", "Keto Friendly", "Rich Flavor"],
+      "dietaryPreferences": ["High Protein", "Low Carb", "Low Sugar", "Comfort Food", "Gluten Free", "Keto Friendly", "Rich Flavor"],
       "rating": "5,0",
       "isRecommended": true,
       "isNew": false,
@@ -116,34 +116,7 @@
         "https://george-fx.github.io/dinehub_api/assets/dishes/03.jpg"
       ],
       "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
-      "colors": [
-        {
-          "id": 1,
-          "name": "champagne",
-          "code": "#F8E7CD"
-        },
-        {
-          "id": 2,
-          "name": "pale cerulean",
-          "code": "#9DC5DB"
-        },
-        {
-          "id": 3,
-          "name": "opal",
-          "code": "#96B8BA"
-        },
-        {
-          "id": 4,
-          "name": "camel",
-          "code": "#B09765"
-        },
-        {
-          "id": 5,
-          "name": "squid ink",
-          "code": "#142535"
-        }
-      ],
-      "tags": ["High Protein", "Low Carb", "Low Sugar", "Keto Friendly", "Gluten Free", "Omega-3 Rich", "Heart Healthy", "Paleo Friendly"],
+      "dietaryPreferences": ["High Protein", "Low Carb", "Low Sugar", "Keto Friendly", "Gluten Free", "Omega-3 Rich", "Heart Healthy", "Paleo Friendly"],
       "rating": "5,0",
       "isRecommended": true,
       "isNew": false,
@@ -195,7 +168,7 @@
         "https://george-fx.github.io/dinehub_api/assets/dishes/04.jpg"
       ],
       "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
-      "tags": ["Low Calorie", "Low Fat", "Vegetarian", "Vegan Friendly", "Gluten Free", "Dairy Free", "Rich Flavor", "Comfort Food"],
+      "dietaryPreferences": ["Low Calorie", "Low Fat", "Vegetarian", "Vegan Friendly", "Gluten Free", "Dairy Free", "Rich Flavor", "Comfort Food"],
       "rating": "5,0",
       "isRecommended": true,
       "isNew": false,
@@ -269,7 +242,7 @@
           "code": "#142535"
         }
       ],
-      "tags": ["High Protein", "Comfort Food", "Rich Flavor", "Low Sugar", "Keto Friendly", "Gluten Free", "Hearty Meal"],
+      "dietaryPreferences": ["High Protein", "Comfort Food", "Rich Flavor", "Low Sugar", "Keto Friendly", "Gluten Free", "Hearty Meal"],
       "rating": "5,0",
       "isRecommended": true,
       "isNew": false,
@@ -322,7 +295,7 @@
         "https://george-fx.github.io/dinehub_api/assets/dishes/06.jpg"
       ],
       "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
-      "tags": ["High Protein", "Low Carb", "Low Sugar", "Keto Friendly", "Gluten Free", "Rich Flavor", "Gourmet Dish", "Paleo Friendly"],
+      "dietaryPreferences": ["High Protein", "Low Carb", "Low Sugar", "Keto Friendly", "Gluten Free", "Rich Flavor", "Gourmet Dish", "Paleo Friendly"],
       "rating": "5,0",
       "isRecommended": true,
       "isSale": true,
@@ -400,7 +373,7 @@
           "code": "#142535"
         }
       ],
-      "tags": [
+      "dietaryPreferences": [
         "chairs & tables"
       ],
       "rating": "5,0",
@@ -480,7 +453,7 @@
           "code": "#142535"
         }
       ],
-      "tags": [
+      "dietaryPreferences": [
         "chairs & tables"
       ],
       "rating": "5,0",
@@ -562,7 +535,7 @@
           "code": "#142535"
         }
       ],
-      "tags": [
+      "dietaryPreferences": [
         "chairs & tables"
       ],
       "rating": "5,0",
@@ -643,7 +616,7 @@
           "code": "#142535"
         }
       ],
-      "tags": [
+      "dietaryPreferences": [
         "chairs & tables"
       ],
       "rating": "5,0",
@@ -697,7 +670,7 @@
         "https://george-fx.github.io/dinehub_api/assets/dishes/11.jpg"
       ],
       "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
-      "tags": [
+      "dietaryPreferences": [
         "chairs & tables"
       ],
       "colors": [
