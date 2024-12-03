@@ -112,8 +112,8 @@
     },
     {
       "id": 3,
-      "name": "Stool dark grey",
-      "price": 254.6,
+      "name": "Pan-Seared Salmon",
+      "price": 15.99,
       "weight": 200,
       "image": "https://george-fx.github.io/dinehub_api/assets/dishes/03.jpg",
       "images": [
@@ -156,6 +156,7 @@
       "isBestseller": true,
       "isFeatured": false,
       "isSale": false,
+      "isNew": true,
       "reviews": [
         {
           "id": 1,
