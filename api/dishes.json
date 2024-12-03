@@ -66,33 +66,6 @@
         "https://george-fx.github.io/dinehub_api/assets/dishes/02.jpg"
       ],
       "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
-      "colors": [
-        {
-          "id": 1,
-          "name": "champagne",
-          "code": "#F8E7CD"
-        },
-        {
-          "id": 2,
-          "name": "pale cerulean",
-          "code": "#9DC5DB"
-        },
-        {
-          "id": 3,
-          "name": "opal",
-          "code": "#96B8BA"
-        },
-        {
-          "id": 4,
-          "name": "camel",
-          "code": "#B09765"
-        },
-        {
-          "id": 5,
-          "name": "squid ink",
-          "code": "#142535"
-        }
-      ],
       "tags": [
         "chairs & tables"
       ],
