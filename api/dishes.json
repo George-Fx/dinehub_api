@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Caesar with Chicken",
-      "price": 42.9,
+      "price": 10.99,
       "weight": 200,
       "image": "https://george-fx.github.io/dinehub_api/assets/dishes/01.jpg",
       "images": [
@@ -11,7 +11,7 @@
         "https://george-fx.github.io/dinehub_api/assets/dishes/01.jpg",
         "https://george-fx.github.io/dinehub_api/assets/dishes/01.jpg"
       ],
-      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
       "tags": [
         "lightning"
       ],
