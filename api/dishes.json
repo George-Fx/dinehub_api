@@ -112,7 +112,8 @@
       "rating": "5,0",
       "isRecommended": true,
       "isNew": false,
-      "isHot": false
+      "isHot": false,
+      "menu": ["soups"]
     },
     {
       "id": 5,
@@ -161,7 +162,8 @@
       "rating": "5,0",
       "isRecommended": true,
       "isNew": false,
-      "isHot": false
+      "isHot": false,
+      "menu": ["pasta"]
     },
     {
       "id": 6,
