@@ -192,7 +192,8 @@
       "rating": "5,0",
       "isRecommended": true,
       "isNew": false,
-      "isHot": false
+      "isHot": false,
+      "menu": ["meat"]
     },
     {
       "id": 7,
