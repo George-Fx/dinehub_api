@@ -23,12 +23,12 @@
         {
             "id": 5,
             "name": "Hot meals",
-            "image": "https://george-fx.github.io/dinehub_api/assets/menu/04.jpg"
+            "image": "https://george-fx.github.io/dinehub_api/assets/menu/05.jpg"
         },
         {
             "id": 6,
             "name": "Fish",
-            "image": "https://george-fx.github.io/dinehub_api/assets/menu/04.jpg"
+            "image": "https://george-fx.github.io/dinehub_api/assets/menu/06.jpg"
         }
     ]
 }
