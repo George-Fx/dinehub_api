@@ -4,7 +4,6 @@
             "id": 1,
             "name": "Salads",
             "avatar": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
-            "rating": 5,
             "date": "2023-08-23",
             "comment": "The product quality exceeded my expectations. Highly recommend it!"
         },
@@ -20,7 +19,6 @@
             "id": 3,
             "name": "Pasta",
             "avatar": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
-            "rating": 5,
             "date": "2023-08-18",
             "comment": "Amazing service and high-quality items. Will order again!"
         },
@@ -28,7 +26,6 @@
             "id": 4,
             "name": "Soups",
             "avatar": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
-            "rating": 5,
             "date": "2023-08-15",
             "comment": "Fast delivery and excellent customer support. Highly satisfied!"
         },
@@ -36,7 +33,6 @@
             "id": 5,
             "name": "Hot meals",
             "avatar": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
-            "rating": 5,
             "date": "2023-08-15",
             "comment": "Fast delivery and excellent customer support. Highly satisfied!"
         },
@@ -44,7 +40,6 @@
             "id": 6,
             "name": "Fish",
             "avatar": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
-            "rating": 5,
             "date": "2023-08-15",
             "comment": "Fast delivery and excellent customer support. Highly satisfied!"
         }
