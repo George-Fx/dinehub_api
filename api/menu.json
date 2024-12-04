@@ -2,7 +2,7 @@
     "menu": [
         {
             "id": 1,
-            "name": "Adrianna Mercado",
+            "name": "Salads",
             "avatar": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
             "rating": 5,
             "date": "2023-08-23",
@@ -10,7 +10,7 @@
         },
         {
             "id": 2,
-            "name": "Dante Valdez",
+            "name": "Meat",
             "avatar": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
             "rating": 4,
             "date": "2023-08-20",
@@ -18,7 +18,7 @@
         },
         {
             "id": 3,
-            "name": "Troy Ingram",
+            "name": "Pasta",
             "avatar": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
             "rating": 5,
             "date": "2023-08-18",
@@ -26,7 +26,23 @@
         },
         {
             "id": 4,
-            "name": "Joshua Bean",
+            "name": "Soups",
+            "avatar": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
+            "rating": 5,
+            "date": "2023-08-15",
+            "comment": "Fast delivery and excellent customer support. Highly satisfied!"
+        },
+        {
+            "id": 5,
+            "name": "Hot meals",
+            "avatar": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
+            "rating": 5,
+            "date": "2023-08-15",
+            "comment": "Fast delivery and excellent customer support. Highly satisfied!"
+        },
+        {
+            "id": 6,
+            "name": "Fish",
             "avatar": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
             "rating": 5,
             "date": "2023-08-15",
