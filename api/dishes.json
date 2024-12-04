@@ -55,7 +55,7 @@
       "isRecommended": true,
       "isNew": true,
       "isHot": false,
-      "menu": ["meat"]
+      "menu": ["meat", "hot meals"]
     },
     {
       "id": 3,
@@ -84,7 +84,7 @@
       "isRecommended": true,
       "isNew": false,
       "isHot": false,
-      "menu": ["meat"]
+      "menu": ["meat", "hot meals"]
     },
     {
       "id": 4,
@@ -113,7 +113,7 @@
       "isRecommended": true,
       "isNew": false,
       "isHot": false,
-      "menu": ["soups"]
+      "menu": ["soups", "hot meals"]
     },
     {
       "id": 5,
@@ -163,7 +163,7 @@
       "isRecommended": true,
       "isNew": false,
       "isHot": false,
-      "menu": ["pasta"]
+      "menu": ["pasta", "hot meals"]
     },
     {
       "id": 6,
@@ -193,7 +193,7 @@
       "isRecommended": true,
       "isNew": false,
       "isHot": false,
-      "menu": ["meat"]
+      "menu": ["meat", "hot meals"]
     },
     {
       "id": 7,
@@ -222,7 +222,7 @@
       "isRecommended": true,
       "isNew": false,
       "isHot": false,
-      "menu": ["meat"]
+      "menu": ["meat", "hot meals"]
     },
     {
       "id": 8,
@@ -250,7 +250,7 @@
       "isRecommended": true,
       "isNew": false,
       "isHot": false,
-      "menu": ["meat"]
+      "menu": ["meat", "hot meals"]
     },
     {
       "id": 9,
@@ -279,7 +279,7 @@
       "isRecommended": true,
       "isNew": false,
       "isHot": false,
-      "menu": ["soups"]
+      "menu": ["soups", "hot meals"]
     },
     {
       "id": 10,
