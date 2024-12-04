@@ -6,7 +6,7 @@
             "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
             "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
             "rating": 5,
-            "date": "23 Jan"
+            "date": "Aug 23, 2023"
         },
         {
             "id": 2,
@@ -14,7 +14,7 @@
             "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
             "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
             "rating": 5,
-            "date": "23 Jan"
+            "date": "Aug 23, 2023"
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
             "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
             "rating": 5,
-            "date": "23 Jan"
+            "date": "Aug 23, 2023"
         },
         {
             "id": 4,
@@ -30,7 +30,7 @@
             "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
             "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
             "rating": 5,
-            "date": "23 Jan"
+            "date": "Aug 23, 2023"
         }
     ]
 }
