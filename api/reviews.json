@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Adrianna Mercado",
-            "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
+            "avatar": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
             "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
             "rating": 5,
             "date": "Aug 23, 2023"
@@ -11,7 +11,7 @@
         {
             "id": 2,
             "name": "Dante Valdez",
-            "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
+            "avatar": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
             "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
             "rating": 5,
             "date": "Aug 23, 2023"
@@ -19,7 +19,7 @@
         {
             "id": 3,
             "name": "Troy Ingram",
-            "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
+            "avatar": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
             "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
             "rating": 5,
             "date": "Aug 23, 2023"
@@ -27,7 +27,7 @@
         {
             "id": 4,
             "name": "Joshua Bean",
-            "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
+            "avatar": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
             "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
             "rating": 5,
             "date": "Aug 23, 2023"
