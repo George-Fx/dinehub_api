@@ -3,32 +3,32 @@
         {
             "id": 1,
             "name": "Salads",
-            "photo": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg"
+            "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg"
         },
         {
             "id": 2,
             "name": "Meat",
-            "photo": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg"
+            "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg"
         },
         {
             "id": 3,
             "name": "Pasta",
-            "photo": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg"
+            "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg"
         },
         {
             "id": 4,
             "name": "Soups",
-            "photo": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg"
+            "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg"
         },
         {
             "id": 5,
             "name": "Hot meals",
-            "photo": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg"
+            "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg"
         },
         {
             "id": 6,
             "name": "Fish",
-            "photo": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg"
+            "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg"
         }
     ]
 }
