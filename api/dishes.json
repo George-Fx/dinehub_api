@@ -95,7 +95,7 @@
       "rating": "5,0",
       "isRecommended": true,
       "isNew": false,
-      "isHot": false,
+      "isHot": true,
       "menu": ["soups", "hot meals"]
     },
     {
