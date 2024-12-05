@@ -14,9 +14,6 @@
       ],
       "description": "Combining yogurt with herbs, garlic, lemon juice, and spices can create a tangy and light dressing option.",
       "dietaryPreferences": [
-        "High Protein",
-        "Low Carb",
-        "Low Sugar",
         "Keto Friendly",
         "Gluten Free",
         "Dairy Free",
@@ -45,11 +42,7 @@
       "dietaryPreferences": [
         "High Protein",
         "Low Carb",
-        "Low Sugar",
-        "Comfort Food",
-        "Gluten Free",
-        "Keto Friendly",
-        "Rich Flavor"
+        "Low Sugar"
       ],
       "rating": "5,0",
       "isRecommended": true,
@@ -73,12 +66,7 @@
       "dietaryPreferences": [
         "High Protein",
         "Low Carb",
-        "Low Sugar",
-        "Keto Friendly",
-        "Gluten Free",
-        "Omega-3 Rich",
-        "Heart Healthy",
-        "Paleo Friendly"
+        "Low Sugar"
       ],
       "rating": "5,0",
       "isRecommended": true,
@@ -102,12 +90,7 @@
       "dietaryPreferences": [
         "Low Calorie",
         "Low Fat",
-        "Vegetarian",
-        "Vegan Friendly",
-        "Gluten Free",
-        "Dairy Free",
-        "Rich Flavor",
-        "Comfort Food"
+        "Vegetarian"
       ],
       "rating": "5,0",
       "isRecommended": true,
@@ -153,11 +136,7 @@
       "dietaryPreferences": [
         "High Protein",
         "Comfort Food",
-        "Rich Flavor",
-        "Low Sugar",
-        "Keto Friendly",
-        "Gluten Free",
-        "Hearty Meal"
+        "Rich Flavor"
       ],
       "rating": "5,0",
       "isRecommended": true,
@@ -184,10 +163,7 @@
         "Low Carb",
         "Low Sugar",
         "Keto Friendly",
-        "Gluten Free",
-        "Rich Flavor",
-        "Gourmet Dish",
-        "Paleo Friendly"
+        "Gluten Free"
       ],
       "rating": "5,0",
       "isRecommended": true,
@@ -212,11 +188,7 @@
         "High Protein",
         "Low Carb",
         "Low Sugar",
-        "Gluten Free",
-        "Keto Friendly",
-        "Spicy Flavor",
-        "Dairy Free",
-        "Paleo Friendly"
+        "Gluten Free"
       ],
       "rating": "5,0",
       "isRecommended": true,
@@ -240,11 +212,7 @@
       "dietaryPreferences": [
         "High Protein",
         "Rich Flavor",
-        "Sweet and Savory",
-        "Low Carb",
-        "Holiday Favorite",
-        "Gluten Free",
-        "Hearty Meal"
+        "Sweet and Savory"
       ],
       "rating": "5,0",
       "isRecommended": true,
@@ -270,10 +238,7 @@
         "Low Calorie",
         "Low Fat",
         "Vegetarian",
-        "Gluten Free",
-        "Dairy Free",
-        "Comfort Food",
-        "Smooth Texture"
+        "Gluten Free"
       ],
       "rating": "5,0",
       "isRecommended": true,
@@ -297,11 +262,7 @@
       "dietaryPreferences": [
         "High Carbs",
         "Sweet",
-        "Vegetarian",
-        "Gluten Free",
-        "Comfort Food",
-        "Kid Friendly",
-        "Breakfast Favorite"
+        "Vegetarian"
       ],
       "rating": "5,0",
       "isRecommended": true,
@@ -326,12 +287,7 @@
         "Low Calorie",
         "Low Carb",
         "Vegan Friendly",
-        "Vegetarian",
-        "Gluten Free",
-        "Dairy Free",
-        "Healthy",
-        "Fresh",
-        "Light Meal"
+        "Vegetarian"
       ],
       "rating": "5,0",
       "isRecommended": true,
