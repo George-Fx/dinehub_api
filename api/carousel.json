@@ -2,15 +2,15 @@
     "carousel": [
         {
             "id": 1,
-            "avatar": "https://george-fx.github.io/dinehub/assets/banners/01.jpg"
+            "banner": "https://george-fx.github.io/dinehub/assets/banners/01.jpg"
         },
         {
             "id": 2,
-            "avatar": "https://george-fx.github.io/dinehub/assets/banners/01.jpg"
+            "banner": "https://george-fx.github.io/dinehub/assets/banners/01.jpg"
         },
         {
             "id": 3,
-            "avatar": "https://george-fx.github.io/dinehub/assets/banners/01.jpg"
+            "banner": "https://george-fx.github.io/dinehub/assets/banners/01.jpg"
         }
     ]
 }
