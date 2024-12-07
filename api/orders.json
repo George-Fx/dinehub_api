@@ -9,15 +9,13 @@
             "products": [
                 {
                     "id": 1,
-                    "name": "Dining chair",
-                    "color": "red",
+                    "name": "Beef Stroganoff",
                     "quantity": 1,
                     "price": 214.00
                 },
                 {
                     "id": 2,
-                    "name": "Garden armchair",
-                    "color": "white",
+                    "name": "Vegetable salad",
                     "quantity": 1,
                     "price": 312.00
                 }
