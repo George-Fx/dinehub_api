@@ -25,9 +25,9 @@
         },
         {
             "id": 456345,
-            "date": "Aug 31, 2023",
+            "date": "Jul 28, 2023",
             "time": "8:32 pm",
-            "status": "shipping",
+            "status": "Delivered",
             "total": 25.83,
             "discount": 2.65,
             "delivery": 2,
@@ -48,9 +48,9 @@
         },
         {
             "id": 456345,
-            "date": "Aug 31, 2023",
+            "date": "Jun 11, 2023",
             "time": "8:32 pm",
-            "status": "shipping",
+            "status": "Canceled",
             "total": 25.83,
             "discount": 2.65,
             "delivery": 2,
