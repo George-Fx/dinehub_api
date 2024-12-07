@@ -2,7 +2,8 @@
     "orders": [
         {
             "id": 456345,
-            "date": "Feb 02, 2024 at 8:32 PM",
+            "date": "Feb 02, 2024",
+            "time": "8:32 pm",
             "status": "shipping",
             "total": 25.83,
             "products": [
