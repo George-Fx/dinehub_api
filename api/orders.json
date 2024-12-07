@@ -6,6 +6,8 @@
             "time": "8:32 pm",
             "status": "shipping",
             "total": 25.83,
+            "discount": 2.65,
+            "delivery": 2,
             "products": [
                 {
                     "id": 1,
